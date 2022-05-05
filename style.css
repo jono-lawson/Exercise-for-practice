@@ -1,0 +1,53 @@
+:
+.mylink {
+  color: #000;
+}
+.headingone{
+ text-align: center; 
+}
+#content {
+  text-align: center;
+  
+}
+.button button--primary button--stacked {
+  background-color: yellow ;
+}
+.yellow {
+  background:color yellow;
+}
+
+  
+
+
+.Personal {
+  text-align: center;
+  padding-left: 50px;
+  color: pink;
+  
+}
+
+
+.grid__item grid__item--medium {
+  border: 2px solid black;
+  justify-items: center;
+  
+}
+
+
+
+
+
+
+
+
+
+
+.heading grid__item grid__item--large flush--top {
+color: red;
+}
+
+
+
+
+
+
